@@ -1,0 +1,3 @@
+[toolchain]
+# https://rust-lang.github.io/rustup-components-history/aarch64-apple-darwin.html
+channel = "stable"
